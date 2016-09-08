@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="city_prompt">Choose a city</string>
+  <string-array name="city_array">
+    <item>Auckland</item>
+    <item>Christchurch</item>
+    <item>Hamilton</item>
+    <item>Wellington</item>
+  </string-array>
+</resources>
+

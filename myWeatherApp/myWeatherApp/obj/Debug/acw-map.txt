@@ -1,0 +1,8 @@
+myWeatherApp.DataAdapter, myWeatherApp;md560297e5539a2c2f8566963c7452cc6db.DataAdapter
+myWeatherApp.DataAdapter, myWeatherApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md560297e5539a2c2f8566963c7452cc6db.DataAdapter
+myWeatherApp.DataAdapter;md560297e5539a2c2f8566963c7452cc6db.DataAdapter
+myweatherapp.DataAdapter;md560297e5539a2c2f8566963c7452cc6db.DataAdapter
+myWeatherApp.MainActivity, myWeatherApp;md560297e5539a2c2f8566963c7452cc6db.MainActivity
+myWeatherApp.MainActivity, myWeatherApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md560297e5539a2c2f8566963c7452cc6db.MainActivity
+myWeatherApp.MainActivity;md560297e5539a2c2f8566963c7452cc6db.MainActivity
+myweatherapp.MainActivity;md560297e5539a2c2f8566963c7452cc6db.MainActivity
